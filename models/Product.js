@@ -28,7 +28,7 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
     },
-
+    //added type
     category_id: {
       type: DataTypes.INTEGER,
     }
